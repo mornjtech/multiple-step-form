@@ -3,9 +3,10 @@
 
     .container{
         display: flex;
+        background-image: url('./assets/images/bg-sidebar-desktop.svg');
     }
 
     body{
-        background-image: url('./assets/images/bg-sidebar-desktop.svg');
         
+       background-color: aquamarine; 
     }
